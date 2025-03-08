@@ -50,6 +50,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 jupyter notebook weather_forecasting.ipynb
 ```
 
+---
+
 ## 📊 **Results Overview**
 - Final optimized model: XGBoost Classifier
 - Achieved accuracy: 67%
